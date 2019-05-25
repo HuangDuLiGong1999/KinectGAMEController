@@ -1,0 +1,32 @@
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\Kinect Game Controller.csprojAssemblyReference.cache
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\Kinect Game Controller.csproj.GenerateResource.cache
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\Kinect Game Controller.csproj.CoreCompileInputs.cache
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\Kinect Game Controller.csproj.CopyComplete
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\陀螺不会飞\Desktop\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\76341\Desktop\Kinect Game Controller\bin\Debug\Microsoft.Kinect.dll
+C:\Users\76341\Desktop\Kinect Game Controller\bin\Debug\Microsoft.Kinect.xml
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\Kinect Game Controller.csprojAssemblyReference.cache
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\MainWindow.baml
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\MainWindow.g.cs
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\App.g.cs
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\Kinect Game Controller.csproj.GenerateResource.cache
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\Kinect Game Controller.csproj.CoreCompileInputs.cache
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\Kinect Game Controller.csproj.CopyComplete
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\KinectGameController_MarkupCompile.cache
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\KinectGameController.g.resources
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\Microsoft.Samples.Kinect.KinectGameController.Properties.Resources.resources
+C:\Users\76341\Desktop\Kinect Game Controller\bin\Debug\KinectGameController.exe
+C:\Users\76341\Desktop\Kinect Game Controller\bin\Debug\KinectGameController.pdb
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\KinectGameController.exe
+C:\Users\76341\Desktop\Kinect Game Controller\obj\Debug\KinectGameController.pdb
